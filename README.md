@@ -1,9 +1,5 @@
 # Tugas-01-Pendalaman_UI-UX
 <br>
-Nama
+Nama : Kukuh Aji Santoso
 <br>
-Kukuh Aji Santoso
-<br>
-Kelas
-<br>
-6A
+Kelas:6A
